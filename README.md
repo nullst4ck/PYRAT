@@ -1,9 +1,9 @@
 # PYRAT
 A Python Remote Administration Tool
 Server:
-•	Binds to local ip and a port of your choice
-•	Loop to wait for commands
-•	Send encoded commands
+- Binds to local ip and a port of your choice
+- Loop to wait for commands
+- Send encoded commands
 •	Receive 4096 size packets annd decode the output then print it to the screen
 •	Once client disconnects; display to the screen
 Client:
