@@ -23,10 +23,10 @@ def validate_ip_address(address):
     print("IP address {} is valid".format(address))
     return True
 
-#Run IP Validation Function
+#Run IP Validation Function1
 validate_ip_address(Server_Host)
 
-#Ask for Server Port
+#Ask for Server Port1
 Server_Port = input("Server port? ")
 
 #Print Server Host and Port
